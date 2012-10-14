@@ -3,10 +3,9 @@
     "version": "1.0.1-kanso.1",
     "categories": ["build-tools"],
     "description": "Compiles LiveScript modules and attachments to javascript on each push",
-    "url": "https://github.com/yiwang/live-script-precompiler/",
+    "url": "https://github.com/yiwang/live-script-precompiler",
     "preprocessors": {
         "compile": "build/compile",
         "remove": "build/remove"
-    },
-    "dependencies": {}
+    }
 }
